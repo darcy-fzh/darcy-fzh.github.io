@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Darcy
+  name      : Zhihao
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 有趣的灵魂万里挑一
@@ -147,7 +147,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"
+  provider: custom # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
@@ -208,11 +208,11 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
+      license: false
       aside:
         toc: true
       show_edit_on_github: true
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
