@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,49 +26,32 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+理工男，目前居住在上海，混迹于咨询和互联网行业。
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+有三大爱好，读书，听音乐，看电影。
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+追求自由和平等。
 
-## Features
+这里会记录我对生活和工作的感受和想法。
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+我也会分享我爱看的书、电影和喜欢的音乐，包括其他值得分享的新鲜事。
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
+##  Music
+
+#### The Beatles
+
+如果你想了解The Beatles, 不妨先从这部纪录片[《The Beatles: Get Back》](https://movie.douban.com/subject/30466797//)开始
+
+| `Help! 1965` | `Rubber Soul 1965` | `Revolver 1966` |
 | --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| ![Help](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/Help.png) | ![Rubber Soul](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/RubberSoul.png) | ![Revolver](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/Revolver.png) |
 
-| `ocean` | `chocolate` | `orange` |
+| `Sgt Pepper's Lonely Hearts Club Band - 1967` | `Abbey Road` | `Let It Be` |
 | --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+| ![Sgt Pepper](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/SgtPepper.png) | ![Abbey Road](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/AbbeyRoad.png) | ![Let It Be](https://github.com/darcy-fzh/darcy-fzh.github.io/raw/master/screenshots/LetItBe.png) |
 
-### Highlight Theme
+## Movie
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+## Book
