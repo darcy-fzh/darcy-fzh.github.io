@@ -138,7 +138,8 @@ comments:
   # please refer to https://valine.js.org/en/ for more info.
   valine:
     app_id    : L4bbQ1Lz91nktuj2bTDKxRLp-9Nh9j0Va # LeanCloud App id
-    app_key   : x004YWcKvzVntHhyyMWtf7Sp # LeanCloud App key
+    app_key   : x004YWcKvzVntHhyyMWtf7Sp # LeanCloud App 
+    serverURLs: https://l4bbq1lz.lc-cn-e1-shared.com
 
 ## => Pageview
 ##############################
